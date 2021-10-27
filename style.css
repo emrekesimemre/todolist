@@ -123,4 +123,11 @@ ul{
     height: 30rem;
     margin: auto;
 }
+#inputList{
+    margin-top: 3rem;
+    width: 50%;
+    height: 3rem;
+    border-radius: 5px;
+    border: none;
+}
 }
