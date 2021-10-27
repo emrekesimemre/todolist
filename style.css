@@ -84,7 +84,7 @@ ul{
     color: red;
 }
 
-@media screen and (max-width: 600px){
+@media screen and (max-width: 480px){
     #li{
         font-size: 1.5rem;
         color:royalblue;
