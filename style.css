@@ -26,7 +26,7 @@ ul{
     flex-direction: column;
     /* justify-content: center; */
     align-items: center;
-    width: 75%;
+    width: 90%;
     height: 40rem;
     margin: auto;
 }
@@ -63,7 +63,6 @@ ul{
     color:royalblue;
     width: 100%;
     margin: 1rem;
-    border: 1px; 
 
 }
 
@@ -86,3 +85,28 @@ ul{
 .fa-trash-alt:hover{
     color: red;
 }
+
+@media screen and (max-width: 600px){
+    #li{
+        font-size: 1.5rem;
+        color:royalblue;
+        width: 100%;
+        margin: 1rem;
+    }
+    .fa-trash-alt{
+        color: black;
+        float: right;
+        font-size: 1rem;
+        margin-top: 5px;
+        margin-right: 10px;
+    }
+
+    .check_btn{
+        width: 20px;
+        height: 1rem;
+        text-align: center;
+        margin-right: 10px;
+        margin-left: 5px;
+    }
+}
+    
