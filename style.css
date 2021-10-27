@@ -84,7 +84,7 @@ ul{
     color: red;
 }
 
-@media screen and (max-width: 480px){
+@media screen and (max-width: 600px){
     #li{
         font-size: 1.5rem;
         color:royalblue;
@@ -125,8 +125,8 @@ ul{
 }
 #inputList{
     margin-top: 3rem;
-    width: 50%;
-    height: 3rem;
+    width: 40%;
+    height: 2rem;
     border-radius: 5px;
     border: none;
 }
