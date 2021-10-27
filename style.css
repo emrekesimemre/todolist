@@ -110,5 +110,17 @@ ul{
         font-size: 2rem;
         background-color:turquoise;
         opacity: 0.8;
+        
 }
+.main{
     
+    background-color: sandybrown;
+    opacity: 0.8;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 70%;
+    height: 30rem;
+    margin: auto;
+}
+}
